@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="fontawesome-free-6.7.2-web/css/all.min.css">
+    <title>mon cv</title>
+    <link rel="stylesheet" href="m cv.css">
+</head>
+<body>
+    <div class="resume">
+        <div class="resume_left">
+            <div class="resume_profil">
+                <center><img src="IMAGES/IMG_20250505_020303.jpg" alt="profile_pic"></center>
+            </div>
+            <div class="resume_content">
+                <div class="resume_item resume_info">
+                   <div class="title">
+                    <p class="bold">BIKEI MBOCK PIERRE YANNICK</p>
+                    <p class="regular">informaticien</p>
+                   </div>
+                   <ul>
+                    <li>
+                        <div class="data">
+                         <i class="fa fa-layer-group"></i> 21 ans, PK9 Douala cameroun
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"></div>
+                        <div class="data">
+                           <i class=" fa fa-phone"></i> +237 695 957 287
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"></div>
+                        <div class="data">
+                            <i class=" fa-brands fa-google"></i> bikeipierre@gmail.com
+                        </div>
+                    </li>
+                   </ul>
+                </div><hr>
+                <div class="resume_item resume_skill">
+                    <div class="title">
+                        <p class="bold">skill's </p>
+                    </div>
+                    <ul>
+                        <li>
+                            <div class="skills_name">
+                                <label for="html">HTML</label>
+                                <progress value="85" id="html" max="100">45%</progress>
+                                <span>85%</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="skills_name">
+                                <label for="html">CSS</label>
+                                <progress value="55" id="html" max="100">45%</progress>
+                                <span>49%</span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="skills_name">
+                                <label for="html">WORD</label>
+                                <progress value="90" id="html" max="100">45%</progress>
+                                <span>95%</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div><hr>
+                <div class="resume_item resume_social">
+                    <div class="title">
+                     <p class="bold">social</p>
+                    </div>
+                    <ul>
+                        <li>
+                            <div class="data">
+                                <p class="semi_bold">
+                                    <i class=" fa-brands fa-whatsapp"></i> +237 651 137 455
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="data">
+                                <p class="semi_bold">
+                                    <i class=" fa-brands fa-instagram"></i> bikei pierre
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="data">
+                                <p class="semi_bold">
+                                    <i class=" fa-brands fa-twitter"></i> yannick@twitter
+                                </p>
+                            </div>
+                        </li>
+                    </ul>   
+                </div>
+            </div>
+        </div>
+        <div class="resume_rigth">
+            <div class="resume_profil">
+                <center><p class="region" id="region">BIKEI MBOCK PIERRE YANNICK</p>
+                <p class="regular">dévéloppeur full stag</p></center>  
+            </div><br><hr>
+            <div class="resume_content">
+                <div class="resume_item resume_info"><br>
+                  <p>je suis un camerounais ambissieux, motivé et passionné par le dévéloppement WEB; Etudiant à la faculté des sciences de l'université de Douala, en licence 1 filière informatique.
+                    Bien que je soit au début de la faculté, je peux répondre aux besoins quelconques d'une entreprise en matières de créativités et de tout ce qui concerne un sécretariat. <br>
+                    Alors je reste disponible pour un besoins!!
+                  </p>
+                </div> <br><hr>
+                <div class="Parcours-scolaires">
+                    <div class="titrs">
+                        <p class="titre" id="titre">Parcours scolaires</p>
+                        <br>
+                    </div>
+                    <ul>
+                        <li>
+                            <div class="point">
+                                <label for="html">2014-2015  - CEP</label>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="point">
+                                <label for="html">2018-2019  - BEPC </label>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="point">
+                                <label for="html">2022-2023   - PROBATOIRE C </label>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="point">
+                                <label for="html">2023-2024  - BAC C ; Formation en word et excell (IAI-Cameroun)  </label>
+                            </div>
+                        </li>
+                    </ul>
+                </div> <br><hr>
+                <div class="resume_item resume_experiences">
+                    <div class="titrs">
+                     <p class="titre"  id="titre">Expériences</p>
+                    </div>
+                    <br>
+                    <ul>
+                        <li>
+                            <div class="">
+                                <p class="semi_bold">
+                                     Création d'un CV responsive
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="">
+                                <p class="semi_bold">
+                                    rédaction de plusieurs supports de cours
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="">
+                                <p class="semi_bold">
+                                    création d'un mini-site personnel
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="">
+                                <p class="semi_bold">
+                                    montages vidéos
+                                </p>
+                            </div>
+                        </li>
+                    </ul><br><hr>
+                    <div class="titrs">
+                        <p class="titre"  id="titre">Langues</p>
+                    </div> <br> <br>  
+                    <div class="langue">
+                        <p>FRANCAIS</p>
+                        <div class="barre">
+                            <div class="niveau" style="width: 90%;"></div>
+                            <p> 95% </p>
+                        </div>
+                    </div>
+                    <div class="langue">
+                        <p>ANGLAIS</p>
+                        <div class="barre">
+                            <div class="niveau" style="width: 45%;"></div>
+                            <p> 45% </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
